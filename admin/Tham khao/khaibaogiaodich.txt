@@ -1,0 +1,8 @@
+<%//khai bao to database
+  var samemp3=new Array();
+  var conn=Server.CreateObject("ADODB.Connection");
+  var RS=Server.CreateObject("ADODB.Recordset");
+  path=Server.MapPath("/azcdrom/db/giaodich.mdb");
+  connStr="DBQ=" + path + ";Driver={Microsoft Access Driver (*.mdb)};DriverId=25;Fil=MS Access";
+  conn.Open(connStr); 
+%>

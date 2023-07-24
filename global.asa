@@ -1,0 +1,22 @@
+<script language="jscript" runat=Server> 
+function Application_OnStart() 
+{ 
+	Application("visitors")=0;
+} 
+function Session_OnStart() 
+{ 
+	Application.lock();
+	Application("visitors")+=1;
+	Application.Unlock();
+
+} 
+function Session_OnEnd() 
+{ 
+	Application.lock();
+	Application("visitors")+=-1;
+	Application.Unlock();
+} 
+function Application_OnEnd() 
+{ 
+} 
+</script> 

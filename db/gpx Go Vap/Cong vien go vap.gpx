@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 5.33" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd">
+<metadata>
+<bounds minlat="10.83980156" minlon="106.68228229" maxlat="10.84310546" maxlon="106.68860065"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2015-12-31T00:57:56.656Z</time>
+</extensions>
+</metadata>
+<wpt lat="10.83980156" lon="106.68228229">
+<ele>10.460</ele>
+<time>2015-12-29T06:12:23Z</time>
+<name>001</name>
+<desc>29-DEC-15 13:12:23</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>001</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.83998663" lon="106.68257968">
+<ele>10.700</ele>
+<time>2015-12-29T06:13:32Z</time>
+<name>002</name>
+<desc>29-DEC-15 13:13:32</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>002</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84013047" lon="106.68283164">
+<ele>9.499</ele>
+<time>2015-12-29T06:13:46Z</time>
+<name>003</name>
+<desc>29-DEC-15 13:13:46</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>003</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84029283" lon="106.68314898">
+<ele>9.739</ele>
+<time>2015-12-29T06:14:03Z</time>
+<name>004</name>
+<desc>29-DEC-15 13:14:03</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>004</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84042551" lon="106.68342440">
+<ele>9.018</ele>
+<time>2015-12-29T06:14:21Z</time>
+<name>005</name>
+<desc>29-DEC-15 13:14:21</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>005</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84059918" lon="106.68371970">
+<ele>10.220</ele>
+<time>2015-12-29T06:15:03Z</time>
+<name>006</name>
+<desc>29-DEC-15 13:15:03</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>006</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84075844" lon="106.68398373">
+<ele>10.941</ele>
+<time>2015-12-29T06:15:19Z</time>
+<name>007</name>
+<desc>29-DEC-15 13:15:19</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>007</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84101367" lon="106.68405506">
+<ele>10.700</ele>
+<time>2015-12-29T06:15:53Z</time>
+<name>008</name>
+<desc>29-DEC-15 13:15:53</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>008</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84137116" lon="106.68403913">
+<ele>10.460</ele>
+<time>2015-12-29T06:16:09Z</time>
+<name>009</name>
+<desc>29-DEC-15 13:16:09</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>009</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84155916" lon="106.68437424">
+<ele>9.258</ele>
+<time>2015-12-29T06:16:25Z</time>
+<name>010</name>
+<desc>29-DEC-15 13:16:25</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>010</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84167089" lon="106.68464540">
+<ele>9.499</ele>
+<time>2015-12-29T06:16:42Z</time>
+<name>011</name>
+<desc>29-DEC-15 13:16:42</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>011</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84177265" lon="106.68491060">
+<ele>9.258</ele>
+<time>2015-12-29T06:17:00Z</time>
+<name>012</name>
+<desc>29-DEC-15 13:17:00</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>012</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84188354" lon="106.68520078">
+<ele>9.258</ele>
+<time>2015-12-29T06:17:18Z</time>
+<name>013</name>
+<desc>29-DEC-15 13:17:18</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>013</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84199770" lon="106.68546850">
+<ele>10.700</ele>
+<time>2015-12-29T06:17:58Z</time>
+<name>014</name>
+<desc>29-DEC-15 13:17:58</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>014</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84218890" lon="106.68593990">
+<ele>11.662</ele>
+<time>2015-12-29T06:18:24Z</time>
+<name>015</name>
+<desc>29-DEC-15 13:18:24</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>015</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84227699" lon="106.68617518">
+<ele>11.902</ele>
+<time>2015-12-29T06:18:42Z</time>
+<name>016</name>
+<desc>29-DEC-15 13:18:42</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>016</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84234203" lon="106.68632991">
+<ele>12.142</ele>
+<time>2015-12-29T06:19:24Z</time>
+<name>017</name>
+<desc>29-DEC-15 13:19:24</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>017</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84243314" lon="106.68659737">
+<ele>14.546</ele>
+<time>2015-12-29T06:19:52Z</time>
+<name>018</name>
+<desc>29-DEC-15 13:19:52</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>018</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84256751" lon="106.68690792">
+<ele>15.026</ele>
+<time>2015-12-29T06:20:28Z</time>
+<name>019</name>
+<desc>29-DEC-15 13:20:28</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>019</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84269097" lon="106.68720255">
+<ele>15.267</ele>
+<time>2015-12-29T06:20:50Z</time>
+<name>020</name>
+<desc>29-DEC-15 13:20:50</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>020</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84282357" lon="106.68747949">
+<ele>14.786</ele>
+<time>2015-12-29T06:21:21Z</time>
+<name>021</name>
+<desc>29-DEC-15 13:21:21</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>021</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84293338" lon="106.68771661">
+<ele>15.026</ele>
+<time>2015-12-29T06:21:38Z</time>
+<name>022</name>
+<desc>29-DEC-15 13:21:38</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>022</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84303924" lon="106.68797452">
+<ele>15.026</ele>
+<time>2015-12-29T06:21:53Z</time>
+<name>023</name>
+<desc>29-DEC-15 13:21:53</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>023</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84308869" lon="106.68830552">
+<ele>13.584</ele>
+<time>2015-12-29T06:22:12Z</time>
+<name>024</name>
+<desc>29-DEC-15 13:22:12</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>024</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84310546" lon="106.68852974">
+<ele>13.104</ele>
+<time>2015-12-29T06:22:27Z</time>
+<name>025</name>
+<desc>29-DEC-15 13:22:27</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>025</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84293078" lon="106.68860065">
+<ele>8.778</ele>
+<time>2015-12-29T06:22:49Z</time>
+<name>026</name>
+<desc>29-DEC-15 13:22:49</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>026</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84212553" lon="106.68674858">
+<ele>8.778</ele>
+<time>2015-12-29T06:25:17Z</time>
+<name>027</name>
+<desc>29-DEC-15 13:25:17</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>027</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84184893" lon="106.68682008">
+<ele>9.258</ele>
+<time>2015-12-29T06:26:23Z</time>
+<name>028</name>
+<desc>29-DEC-15 13:26:23</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>028</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84228143" lon="106.68702351">
+<ele>6.134</ele>
+<time>2015-12-29T06:28:02Z</time>
+<name>029</name>
+<desc>29-DEC-15 13:28:02</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>029</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84240708" lon="106.68727078">
+<ele>6.615</ele>
+<time>2015-12-29T06:29:24Z</time>
+<name>030</name>
+<desc>29-DEC-15 13:29:24</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>030</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84207524" lon="106.68738267">
+<ele>6.374</ele>
+<time>2015-12-29T06:30:13Z</time>
+<name>031</name>
+<desc>29-DEC-15 13:30:13</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>031</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84198220" lon="106.68713323">
+<ele>7.816</ele>
+<time>2015-12-29T06:31:22Z</time>
+<name>032</name>
+<desc>29-DEC-15 13:31:22</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>032</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84175840" lon="106.68654960">
+<ele>2.529</ele>
+<time>2015-12-29T06:33:28Z</time>
+<name>033</name>
+<desc>29-DEC-15 13:33:28</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>033</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84184993" lon="106.68638791">
+<ele>8.297</ele>
+<time>2015-12-29T06:36:10Z</time>
+<name>034</name>
+<desc>29-DEC-15 13:36:10</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>034</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84161256" lon="106.68648237">
+<ele>9.739</ele>
+<time>2015-12-29T06:37:00Z</time>
+<name>035</name>
+<desc>29-DEC-15 13:37:00</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>035</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84237430" lon="106.68620032">
+<ele>9.499</ele>
+<time>2015-12-29T06:39:54Z</time>
+<name>036</name>
+<desc>29-DEC-15 13:39:54</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>036</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84252593" lon="106.68611776">
+<ele>9.258</ele>
+<time>2015-12-29T06:40:19Z</time>
+<name>037</name>
+<desc>29-DEC-15 13:40:19</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>037</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84267521" lon="106.68605113">
+<ele>8.537</ele>
+<time>2015-12-29T06:40:44Z</time>
+<name>038</name>
+<desc>29-DEC-15 13:40:44</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>038</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84282324" lon="106.68594107">
+<ele>7.095</ele>
+<time>2015-12-29T06:41:30Z</time>
+<name>039</name>
+<desc>29-DEC-15 13:41:30</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>039</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84262040" lon="106.68632924">
+<ele>7.095</ele>
+<time>2015-12-29T06:44:14Z</time>
+<name>040</name>
+<desc>29-DEC-15 13:44:14</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>040</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84293463" lon="106.68634692">
+<ele>2.770</ele>
+<time>2015-12-29T06:47:42Z</time>
+<name>041</name>
+<desc>29-DEC-15 13:47:42</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>041</label_text>
+</label>
+</extensions>
+</wpt>
+<wpt lat="10.84076305" lon="106.68438111">
+<ele>11.181</ele>
+<time>2015-12-29T07:08:19Z</time>
+<name>042</name>
+<desc>29-DEC-15 14:08:19</desc>
+<sym>Flag, Blue</sym>
+<type>Blue Flag</type>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>042</label_text>
+</label>
+</extensions>
+</wpt>
+<extensions>
+</extensions>
+</gpx>
